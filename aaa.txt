@@ -1,2 +1,10 @@
 
 aaaaaa
+
+
+master_file_content
+
+
+
+hot_file_content
+
